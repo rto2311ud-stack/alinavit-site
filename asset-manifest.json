@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/alinavit-site/static/css/main.19a5a0e6.css",
-    "main.js": "/alinavit-site/static/js/main.8e2a72f1.js",
+    "main.css": "/alinavit-site/static/css/main.837c3976.css",
+    "main.js": "/alinavit-site/static/js/main.96451279.js",
     "index.html": "/alinavit-site/index.html",
-    "main.19a5a0e6.css.map": "/alinavit-site/static/css/main.19a5a0e6.css.map",
-    "main.8e2a72f1.js.map": "/alinavit-site/static/js/main.8e2a72f1.js.map"
+    "main.837c3976.css.map": "/alinavit-site/static/css/main.837c3976.css.map",
+    "main.96451279.js.map": "/alinavit-site/static/js/main.96451279.js.map"
   },
   "entrypoints": [
-    "static/css/main.19a5a0e6.css",
-    "static/js/main.8e2a72f1.js"
+    "static/css/main.837c3976.css",
+    "static/js/main.96451279.js"
   ]
 }
