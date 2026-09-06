@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alinavit-site/versions/full/static/css/main.19a5a0e6.css",
+    "main.js": "/alinavit-site/versions/full/static/js/main.7092fe9f.js",
+    "index.html": "/alinavit-site/versions/full/index.html",
+    "main.19a5a0e6.css.map": "/alinavit-site/versions/full/static/css/main.19a5a0e6.css.map",
+    "main.7092fe9f.js.map": "/alinavit-site/versions/full/static/js/main.7092fe9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a5a0e6.css",
+    "static/js/main.7092fe9f.js"
+  ]
+}
